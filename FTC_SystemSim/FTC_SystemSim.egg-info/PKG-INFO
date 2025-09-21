@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: FTC_SystemSim
+Version: 0.1
+Summary: FTC_SystemSim is a system level tradeoff analysis tool for FTC
+Author: Soumitra Borthakur
+Requires-Dist: numpy
+Requires-Dist: time
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
