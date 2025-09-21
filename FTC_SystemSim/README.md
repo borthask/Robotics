@@ -9,8 +9,9 @@ from Anaconda prompt do:
 ```
 pip install numpy
 pip install matplotlib
-
+pip install math
 
 pip install "git+git://github.com/borthask/FTC_SystemSim" --upgrade
 ```
+
 
