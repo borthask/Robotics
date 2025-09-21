@@ -11,5 +11,6 @@ pip install numpy
 pip install matplotlib
 
 
-pip install "git+git://github.com/bblais/RobotSim373" --upgrade
+pip install "git+git://github.com/borthask/FTC_SystemSim" --upgrade
 ```
+
